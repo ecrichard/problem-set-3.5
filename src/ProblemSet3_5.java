@@ -20,7 +20,7 @@ public class ProblemSet3_5 {
 		
 		// test your solutions here
 		
-		ps.primes(1, 100000);
+		ps.primes(1, 100);
 		ps.leapYears(5);
 		ps.palindromicNumbers(434);
 		ps.fibonacci(11);
